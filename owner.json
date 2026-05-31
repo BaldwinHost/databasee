@@ -1,5 +1,12 @@
 {
   "tokens": [
-    "8545740870:AAE0WISpT50EjU2L98_Aag3p6NuQdN1bd_4"
+    {
+      "token": "1234567890:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw",
+      "username": "baldwin",
+      "addedBy": "scndriell",
+      "telegramId": 123456789,
+      "createdAt": "2026-05-31T11:48:40.000Z",
+      "hits": 0
+    }
   ]
 }
